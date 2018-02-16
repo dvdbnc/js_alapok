@@ -1,6 +1,4 @@
 {
-    
-"boxmodel": false,
-"order-alphabetical": false
-
+    "box-model": false,
+    "order-alphabetical": false
 }
